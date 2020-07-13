@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Marc-Antoine, **frontend developer** based in France.
+
+You will find here some projects I started but most of my active projects are in my private repos. 
 
 <!--
 **wagam/wagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
