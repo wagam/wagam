@@ -4,6 +4,8 @@ I'm Marc-Antoine, **frontend developer** based in France.
 
 You will find here some projects I started but most of my active projects are in my private repos. 
 
+[![Marc-Antoine's github stats](https://github-readme-stats.vercel.app/api?username=wagam)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wagam/wagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
