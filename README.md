@@ -4,7 +4,7 @@ I'm Marc-Antoine, **frontend developer** based in France.
 
 You will find here some projects I started but most of my active projects are in my private repos. 
 
-Look at my blog [here](https://write.m-gautier.fr) 📖
+Look at my blog [here](https://blog.m-gautier.fr) 📖
 
 [![Marc-Antoine's github stats](https://github-readme-stats.vercel.app/api?username=wagam&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
