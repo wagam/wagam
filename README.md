@@ -4,7 +4,7 @@ I'm Marc-Antoine, **frontend developer** based in France.
 
 You will find here some projects I started but most of my active projects are in my private repos. 
 
-Look at my blog [here](https://blog.m-gautier.fr) 📖
+Look at my blog [here](https://blog-marcobus.vercel.app/) 📖
 
 
 <!--
